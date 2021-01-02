@@ -3,7 +3,7 @@ House Price Regression Machine Learning Project.
 
 Problem Statement: 
 
-Our goal is to predict the price of the houses using given independent variables. In the dataset, the target variable is "SalePrice" and the datatype of the target variable is continous numerical value.
+Our goal is to predict the loan default prediction using the given independent variables. In the dataset, the target variable is "Loan" and its a binary classification problem.
 
 Hypothesis Generation:
 
